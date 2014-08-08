@@ -51,7 +51,6 @@ for post in posts: ##For each post in the subreddit (that was returned, apparent
 		with open("reddit_posts.txt", "a") as myfile:
 			myfile.write(write_text)
 
-
 	except:
 		print '\n\n\n\n\nUnable to print a character in the post title. Should still be able to be saved though.\n\n\n\n\n'
 		print post.url
