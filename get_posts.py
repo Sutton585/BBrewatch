@@ -8,7 +8,7 @@ number_posts_pull = 5 #How many posts do you want to return?
 pull_subreddit = 'BigBrother'
 
 reddit_username = 'caltoru'
-reddit_password = 'g0MrIyqWUj'
+reddit_password = 'xxx'
 reddit_user_agent = 'BBrewatch_testing'
 
 ##-----------------------------------------------------------------------
